@@ -37,7 +37,7 @@ while(True):
         elif(option == '3'):
             continue
         else:
-            print('******************\n\ninvalid entry\nplease choose 1, 2 or q\n\n******************')
+            print('******************\n\ninvalid entry\nplease choose 1, 2 or 3\n\n******************')
             continue
         id = input('ID: ')
         name = input('Name: ')
